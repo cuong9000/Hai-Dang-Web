@@ -185,14 +185,13 @@ img{
 }
 .box_sp h3{
 	font-size:16px;
-	font-weight:bold;
-	color:#00285e;
+	font-weight:normal;
 	margin-top:10px;
 	margin-bottom:5px;
 	height:35px;
 }
 .box_sp h3 a{
-	color:#00285e;
+	color:#000;
 }
 .box_sp h3 a:hover{
 	color:red;
