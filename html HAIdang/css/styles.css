@@ -191,13 +191,19 @@ img{
 	margin-bottom:5px;
 	height:35px;
 }
+.box_sp h3 a{
+	color:#00285e;
+}
+.box_sp h3 a:hover{
+	color:red;
+	text-decoration:none;
+}
 .box_sp p{
 	margin-bottom:5px;
 	height:40px;
 }
-.price_sp{
+.price_sp b{
 	color:rgba(255,0,4,1.00);
-	font-weight:bold;
 }
 .eclipse-prev, .eclipse-next{
     background: url(../images/arrow_banner.png) no-repeat;
