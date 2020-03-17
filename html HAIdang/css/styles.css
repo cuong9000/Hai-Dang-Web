@@ -373,6 +373,10 @@ ul{
 .form_contact_box{
 	margin-top:30px;
 }
+.img_box_dv{
+	height: 180px;
+	overflow: hidden;
+}
 @media only screen and (min-width: 768px){
 	.navbar-collapse{
 	padding:0;
@@ -387,6 +391,9 @@ ul{
 
 }
 @media only screen and (max-width: 767px) {
+	img_box_dv {
+		height: 220px;
+	}
 	.navbar-nav .open .dropdown-menu>li>a, .navbar-nav .open .dropdown-menu .dropdown-header{
 		padding-top:10px;
 		padding-bottom:10px;
