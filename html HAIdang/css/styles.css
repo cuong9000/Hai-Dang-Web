@@ -397,6 +397,7 @@ ul{
 	.navbar-nav .open .dropdown-menu>li>a, .navbar-nav .open .dropdown-menu .dropdown-header{
 		padding-top:10px;
 		padding-bottom:10px;
+		color: #000;
 	}
 	.about .detail_product,.detail_contact .detail_product{
 		margin-top:20px;
